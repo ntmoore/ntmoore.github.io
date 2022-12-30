@@ -11,4 +11,4 @@ Department: <https://www.winona.edu/physics>
 GitHub: <https://github.com/ntmoore>  
 ORCID: [0000-0001-8590-8349](https://orcid.org/0000-0001-8590-8349)  
 
-Here are some papers I've written [papers on arxiv.org](papers.md) 
+Papers: [via arxiv.org](papers.md) 
