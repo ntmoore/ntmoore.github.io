@@ -8,5 +8,7 @@ Nathan Moore, PhD, Professor
 Physics Department, Winona State University
 PhD in Physics, University of Minnesota, 2006
 Email: nmoore@winona.edu
+WSU: https://course1.winona.edu
+Department: https://www.winona.edu/physics
 GitHub: https://github.com/ntmoore
 ORCID: 0000-0001-8590-8349
