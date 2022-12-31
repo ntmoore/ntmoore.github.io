@@ -1,1 +1,0 @@
-# ntmoore.github.io
