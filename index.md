@@ -12,3 +12,4 @@ GitHub: <https://github.com/ntmoore>
 ORCID: [0000-0001-8590-8349](https://orcid.org/0000-0001-8590-8349)  
 
 Papers I've written: [via arxiv.org](papers.md) 
+Notes, opinions, and [letters to the editor]{./notes/notes.md}
