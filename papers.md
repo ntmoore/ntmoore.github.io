@@ -1,6 +1,6 @@
 Here are some technical papers I've written.  Some of them have been published in technical journals, some haven't.  
 
-- https://github.com/ntmoore/video_analysis_Youtube/blob/master/moving%20camera/moving_camera.pdf Don't throw that video away! Reference Frames can fix Video Analysis with a Moving Camera 
+- https://arxiv.org/abs/2301.00013 Don't throw that video away! Reference Frames can fix Video Analysis with a Moving Camera 
 - https://arxiv.org/abs/1807.04246 Notes on pulse-width modulation
 - https://arxiv.org/abs/1712.04029 Inexpensive Student-fabricated Solar Panels
 - https://arxiv.org/abs/1407.7613 Including Arduino microcontroller programming in the introductory physics lab
