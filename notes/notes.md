@@ -1,7 +1,5 @@
 #Everybody has opinions.  Here are some of mine.
 
-##Letters to the Editor
-
 I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  These are my opinions, not those of the University or the State of Minnesota!
 
 ##Coal and Toxic Metals
