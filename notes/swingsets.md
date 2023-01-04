@@ -1,4 +1,4 @@
-#Distribution of Swingsets in Winona</ </
+#Distribution of Swingsets in Winona
 
 Madison Elementary school in Winona was sold in 2018 to a developer who, as of Feb 2019, plans to turn the school into apartments.  Madison occupies a city block and the kids' play space will likely be turned into a parking lot.  
 
@@ -26,7 +26,7 @@ Look at the map and tell the person next to you what's missing.
 
 
 <figure>
-<img src="winona_swingsets_no_madison.jpg" alt="Winona area swingsets">
+<img src="./images/winona_swingsets_no_madison.jpg" alt="Winona area swingsets">
 <figcaption>
 Winona area swingsets.  Madison Elementary is not included.
 </figcaption>
@@ -39,7 +39,7 @@ So far as I can tell, Hidden Valley and the houses around Sugarloaf don't have a
 Also, you may have noticed that I didn't plot a circle around Madison.  We don't yet know if that public playground will survive.  
 
 <figure>
-<img src="winona_swingsets.jpg" alt="Winona area swingsets">
+<img src="./images/winona_swingsets.jpg" alt="Winona area swingsets">
 <figcaption>
 Winona area swingsets.  The walkable playground area that corresponds to Madison Elementary (and could be lost to redevelopment) is shaded. 
 </figcaption>
