@@ -1,6 +1,6 @@
-#CWD prion in plants</ </
+#CWD prion in plants
 
-Sent to MN Outdoor news, Dec 2017.  Note, a staff member at the Minnesota Department of Health told me in conversation that NOBODY should be eating prions, and I wouldn't be crazy to build an 8 foot fence around my garden. 
+Sent to MN Outdoor news, Dec 2017.  Note, a staff member at the Minnesota Department of Health told me in conversation that NOBODY should be eating prions, and I wouldn't be crazy to build an 8 foot fence around my garden. I sent similar letters to Target, Land of Lakes, Cargill, General Mills etc.  No response...
 
 ***
 
