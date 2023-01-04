@@ -10,7 +10,7 @@ WSU: <https://course1.winona.edu>
 Department: <https://www.winona.edu/physics>  
 GitHub: <https://github.com/ntmoore>  
 ORCID: [0000-0001-8590-8349](https://orcid.org/0000-0001-8590-8349)  
-CV [long](./cv/nmoore_cv.pdf) [brief](./cv/nmoore_cv_brief.pdf)
+CV [long](./cv/nmoore_cv.pdf) or [brief](./cv/nmoore_cv_brief.pdf)
 
 Papers I've written: [via arxiv.org](papers.md) 
 
