@@ -1,4 +1,4 @@
-#Don't feed your kids venison!
+# Don't feed your kids (untested) venison!
 
 Sent to MN Outdoor news, November 2017.  I was too hard on the WI DNR.  They're in an impossible situation.  The only solution right now is a vaccine (which doesn't exist) or extirpating the WI deer herd, which is politically impossible.
 
