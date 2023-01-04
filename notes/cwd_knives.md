@@ -1,4 +1,4 @@
-#Its basically impossible to clean CWD off of a knife!
+# It is basically impossible to clean CWD off of a knife!
 
 This was published by Winona Post and Outdoor News in Nov 2018.
 
