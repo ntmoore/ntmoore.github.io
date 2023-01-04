@@ -1,5 +1,5 @@
 ﻿
-#Mercury, from coal, in trout
+# Mercury, from coal, in trout
 
 This is the version of the Mercury, in trout, from coal argument that The Winona Daily News and MN Outdoor News finally published in Summer 2017.  Note, to be published in the paper it seems like the right amount of math is none. Oh well.
 ***
