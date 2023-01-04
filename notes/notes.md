@@ -43,9 +43,9 @@ I was wrong on this one.  A goat was seized at the Winona Tires Plus and [I took
 
 <figure>
 <img src="./images/on_fire.jpg" 
-alt="A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, 'Pay no attention to the man behind the curtain' ">
+alt="A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, Pay no attention to the man behind the curtain ">
 <figcaption>
-A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, 'Pay no attention to the man behind the curtain' ">
+A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, Pay no attention to the man behind the curtain">
 </figcaption>
 </figure>
 
