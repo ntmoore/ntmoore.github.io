@@ -6,4 +6,4 @@ In the upper division, I am active in using Labview, Arduino, and other microcon
 
 As a college freshman, I originally wanted to study history or creative writing, but I couldn’t give up the homework sets in my physics classes. I love good stories and good storytelling, and good homework problems are simply stories that I get to tell, hear, or figure out with other people.
 
-I am happy to live just outside Winona with my wife, children, dog, chickens and honeybees. I am interested in appropriate and agrarian technology and recently learned how to graft apple trees.
+I am happy to live just outside Winona with my wife, children, dog, chickens and ~~honeybees~~ sweet potatoes. I am interested in appropriate and agrarian technology and recently learned how to graft apple trees.
