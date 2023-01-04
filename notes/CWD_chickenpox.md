@@ -1,4 +1,4 @@
-#Treat CWD like the Chickenpox Virus
+# Treat CWD like the Chickenpox Virus
 
 The MN Outdoor news published this letter in January 2019.  It was motivated by the comments of Mike Foy (formerly of the WI DNR).
 
