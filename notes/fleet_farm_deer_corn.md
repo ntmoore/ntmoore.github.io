@@ -16,21 +16,21 @@ Oct 3, 2018
 ***
 
 <figure>
-<img src="corn2_sept30.jpg" alt="Corn on a store endcap at the Winona Fleet Farm on 2018-September-30"> 
+<img src="./images/corn2_sept30.jpg" alt="Corn on a store endcap at the Winona Fleet Farm on 2018-September-30"> 
 <figcaption>
 Corn on a store endcap at the Winona Fleet Farm on 2018-September-30
 </figcaption>
 </figure>
 
 <figure>
-<img src="corn2_oct22.jpg" alt="The same endcap a few weeks later (2018-October-22).  A few bags of Corn are missing">
+<img src="./images/corn2_oct22.jpg" alt="The same endcap a few weeks later (2018-October-22).  A few bags of Corn are missing">
 <figcaption>
 The same endcap a few weeks later (2018-October-22).  A few (5?) bags of Corn are missing
 </figcaption>
 </figure>
 
 <figure>
-<img src="corn_oct22.jpg" alt="A giant pallet of more fieldcorn at the Winona Fleet Farm on 2018-October-22. Guess some people are getting ready to violate the feeding ban.">
+<img src="./images/corn_oct22.jpg" alt="A giant pallet of more fieldcorn at the Winona Fleet Farm on 2018-October-22. Guess some people are getting ready to violate the feeding ban.">
 <figcaption>A giant pallet of more fieldcorn at the Winona Fleet Farm on 2018-October-22. Guess some people are getting ready to violate the feeding ban.
 </figcaption>
 </figure>
