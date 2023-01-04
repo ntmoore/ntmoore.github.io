@@ -1,9 +1,9 @@
-#Code of Conduct</ </
+#Code of Conduct
 
 The Software Carpentry organization makes an explicit mention of their code of conduct at the start of every workshop they run.  In terms of Maslow's hierarchy of needs, if you're hungry or fear for your safety, how can you possibly lean physics?  
 
 See also, <https://www.nytimes.com/2017/12/03/opinion/lost-einsteins-innovation-inequality.html>
- D. Leonhardt, "Lost Einsteins: The Innovations We're Missing," New York Times, Dec. 3, 2017, and <https://www.nobelprize.org/nomination/archive/show_people.php?id=6097>, or this series <AIP_Case_Studies.pdf>.
+ D. Leonhardt, "Lost Einsteins: The Innovations We're Missing," New York Times, Dec. 3, 2017, and <https://www.nobelprize.org/nomination/archive/show_people.php?id=6097>, or this series <./images/AIP_Case_Studies.pdf>.
  
 ***
 
