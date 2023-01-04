@@ -1,6 +1,6 @@
 #Letters to the Editor
 
-One interpretation of Academic Tenure is that professors are supposed to teach, write, and research without regard for whether their ideas are popular with social, civil, or clerical authority.  I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  I think more people read the local paper and the MN Outdoor news than the Americal Journal of Physics, so I've sent letters locally.  These are my opinions, not those of the University or the State of Minnesota!
+One interpretation of Academic Tenure is that professors are supposed to teach, write, and research without regard for whether their ideas are popular with social, civil, or clerical authority.  I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  These are my opinions, not those of the University or the State of Minnesota!
 
 ##Coal and Toxic Metals
 Estimated Mercury (Hg) emissions from MN coal plants before the "Mercury and Air Toxics Standards" (MATS) went into effect.  Note, these standards are part of the "War on Coal."  
