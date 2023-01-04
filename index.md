@@ -3,7 +3,7 @@ I teach Physics and General Engineering classes at [Winona State University](htt
 
 ## Contact information
 Nathan Moore, PhD, Professor  
-[https://www.winona.edu/physics/](Physics Department), Winona State University  
+[Physics Department](https://www.winona.edu/physics/), Winona State University  
 PhD in Physics, University of Minnesota, 2006  
 Email: <nmoore@winona.edu>  
 WSU: <https://course1.winona.edu>  
