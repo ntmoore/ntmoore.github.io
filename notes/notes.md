@@ -43,7 +43,7 @@ I was wrong on this one.  A goat was seized at the Winona Tires Plus and [I took
 <img src="./images/on_fire.jpg" 
 alt="A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, Pay no attention to the man behind the curtain ">
 <figcaption>
-A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, Pay no attention to the man behind the curtain">
+A car on fire in front of an Applebees.  Cars are patiently waiting in line to turn at a stoplight.  The scene has the feeling of the Wizard of Oz, Pay no attention to the man behind the curtain
 </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ A car on fire in front of an Applebees.  Cars are patiently waiting in line to t
 <img src="./images/spinach.jpg"
 alt="Spinach, in a cold frame surrounded by snow, in December.  I grew this spinach and then kept it alive through the winter with a cold frame.  It was amazing.">
 <figcaption>
-Spinach, in a cold frame surrounded by snow, in December.  I grew this spinach and then kept it alive through the winter with a cold frame.  It was amazing.">
+Spinach, in a cold frame surrounded by snow, in December.  I grew this spinach and then kept it alive through the winter with a cold frame.  It was amazing.
 </figcaption>
 </figure>
 
