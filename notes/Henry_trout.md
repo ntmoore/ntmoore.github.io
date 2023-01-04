@@ -8,7 +8,7 @@ One of the joys of living in Winona is that it takes minutes, not hours, to get 
 
 
 <figure>
-<img src="big_trout.jpg"
+<img src="./images/big_trout.jpg"
 alt="Two of my boys and an 18 inch brown trout they caught in a creek near where we live.  Because of Mercury pollution from coal-burning power stations, the boys can eat a serving of fish like this no more than once a week.">
 <figcaption>
 Two of my boys and an 18 inch brown trout they caught in a creek near where we live.  Because of Mercury pollution from coal-burning power stations, the boys can eat a serving of fish like this no more than once a week.
