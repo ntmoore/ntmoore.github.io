@@ -1,8 +1,8 @@
-#Everybody has opinions.  Here are some of mine.
+# Everybody has opinions.  Here are some of mine.
 
 I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  These are my opinions, not those of the University or the State of Minnesota!
 
-##Coal and Toxic Metals
+## Coal and Toxic Metals
 Estimated Mercury (Hg) emissions from MN coal plants before the "Mercury and Air Toxics Standards" (MATS) went into effect.  Note, these standards are part of the "War on Coal."  
 
 After a few tries, [Here's the version](Henry_trout.md) that was finally printed.
@@ -15,7 +15,7 @@ Not a letter per say, but lots of modern food/decorating books feature "Shabby C
 
 Should hunters be able to use crossbows for deer during the regular archery season?  YES! [Here are three arguments](./crossbow-feb2018/crossbow_editorial.md), two of which involve lead poisoning.
 
-##Chronic Wasting Disease (CWD)
+## Chronic Wasting Disease (CWD)
 
 Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Given that the chance of harvesting a deer with CWD is now greater than that of dying in a car crash, I think the DNR should mandate testing of every deer harvested south of Minneapolis.  [Here's my argument](cwd_kids.md) in "letter to the editor" length.
 
@@ -27,10 +27,10 @@ Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Giv
 
 Let's treat CWD like [your body treats the chickenpox virus](CWD_chickenpox.md) - Cash awards for positive cases!
 
-##Code of Conduct
+## Code of Conduct
 Not a letter. Given the way that people relate to eachother nowadays, and further, given the historic discrimination against women in Physics, in my classes I ask that students abide by a code of conduct. [Code of Conduct](code_of_conduct.md)
 
-##Other Letters
+## Other Letters
 
 What's the [distribution of swingsets](swingsets.md) in Winona? 
 
