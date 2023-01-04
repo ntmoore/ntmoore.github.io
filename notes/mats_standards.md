@@ -1,4 +1,4 @@
-#Keeping pollutants out of our water
+# Keeping pollutants out of our water
 
 I wrote this letter in response to the revision of the Mercury and Air Toxics standards. 
 <https://www.winonadailynews.com/opinion/columnists/nathan-moore-keeping-pollutants-out-of-our-water/article_f81a67cb-ac94-5d83-981d-acf10efa9922.html> Winona Daily News, March 2019
