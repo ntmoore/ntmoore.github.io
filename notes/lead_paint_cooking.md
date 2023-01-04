@@ -1,4 +1,4 @@
-#Lead paint is TOXIC!
+# Lead paint is TOXIC!
 
 We have 4 kids and going out to eat is basically impossible now that nobody eats off the kids' menu.  So, we check books out from the library and cook.  We recently checked out the <https://www.halfbakedharvest.com/>, which is also a blog.  The food sounded ok, and it's certainly more ambitious than I was at 23. I'm not sure how she affords the recipie testing though.  
 
