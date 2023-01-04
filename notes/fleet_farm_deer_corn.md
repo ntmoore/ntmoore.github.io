@@ -1,4 +1,4 @@
-#Why does Fleet Farm sell "Deer Corn"?
+# Why does Fleet Farm sell "Deer Corn"?
 
 Is it legal to feed birds in Minnesota?  Sure, but according to the feeding ban put in place by the DNR bird seed neds to be out of reach of deer.  Is it legal to pour corn in a pile and wait for deer to walk up?  <https://www.dnr.state.mn.us/cwd/feedban.html>
 No. No it is not.
