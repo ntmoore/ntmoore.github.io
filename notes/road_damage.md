@@ -1,4 +1,4 @@
-#Who pays for Road Damage
+# Who pays for Road Damage
 
 A letter to the editor in the local papers (Jan 2019) claimed that bicyclists were freeloaders because they don't pay the gas tax, which pays for the roads bicyclists use.
 
