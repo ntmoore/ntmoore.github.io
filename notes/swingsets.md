@@ -1,4 +1,4 @@
-#Distribution of Swingsets in Winona
+# Distribution of Swingsets in Winona
 
 Madison Elementary school in Winona was sold in 2018 to a developer who, as of Feb 2019, plans to turn the school into apartments.  Madison occupies a city block and the kids' play space will likely be turned into a parking lot.  
 
