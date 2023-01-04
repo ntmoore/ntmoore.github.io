@@ -15,3 +15,5 @@ CV [long](./cv/nmoore_cv.pdf) [breif](./cv/nmoore_cv_breif.pdf)
 Papers I've written: [via arxiv.org](papers.md) 
 
 Notes, opinions, and [letters to the editor](notes/notes.md)
+
+[My background](background.md) 
