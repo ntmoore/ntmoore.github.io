@@ -2,7 +2,7 @@
 
 ##Letters to the Editor
 
-One interpretation of Academic Tenure is that professors are supposed to teach, write, and research without regard for whether their ideas are popular with social, civil, or clerical authority.  I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  I think more people read the local paper and the MN Outdoor news than the Americal Journal of Physics, so I've sent letters locally.  These are my opinions, not those of the University or the State of Minnesota!
+I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  These are my opinions, not those of the University or the State of Minnesota!
 
 ##Coal and Toxic Metals
 Estimated Mercury (Hg) emissions from MN coal plants before the "Mercury and Air Toxics Standards" (MATS) went into effect.  Note, these standards are part of the "War on Coal."  
@@ -15,19 +15,19 @@ Trim and siding boards made from coal ash - what could possibly go wrong?  [A le
 
 Not a letter per say, but lots of modern food/decorating books feature "Shabby Chic" decorating that uses old stuff with peeling paint. Before 1955, up to 50% of white house paint could be lead!  [Here's an example book](lead_paint_cooking.md).
 
-Should hunters be able to use crossbows for deer during the regular archery season?  YES! [Here are three arguments](./crossbow-feb2018/crossbow_editorial), two of which involve lead poisoning.
+Should hunters be able to use crossbows for deer during the regular archery season?  YES! [Here are three arguments](./crossbow-feb2018/crossbow_editorial.md), two of which involve lead poisoning.
 
 ##Chronic Wasting Disease (CWD)
 
-Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Given that the chance of harvesting a deer with CWD is now greater than that of dying in a car crash, I think the DNR should mandate testing of every deer harvested south of Minneapolis.  [Here's my argument](cwd_kids) in "letter to the editor" length.
+Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Given that the chance of harvesting a deer with CWD is now greater than that of dying in a car crash, I think the DNR should mandate testing of every deer harvested south of Minneapolis.  [Here's my argument](cwd_kids.md) in "letter to the editor" length.
 
-[Followup Letter)(cwd_plants.md): CWD can be transmitted to plants, which can transmit CWD back to animals.  
+[Followup Letter](cwd_plants.md): CWD can be transmitted to plants, which can transmit CWD back to animals.  
 
 [How to clean a knife](cwd_knives.md): How does the CDC reccomend you clean a surgical instrument that comes into contact with the human equivalent of CWD prion?
 
 [Fleet Farm sells "Deer Corn" and "Wild Deer Feed"](fleet_farm_deer_corn.md) in the hunting section of the store.  It is illegal to feed (bait) deer within about 60 miles of this store.
 
-Let's treat CWD like [your body treats the chickenpox virus](CWD_chickenpox) - Cash awards for positive cases!
+Let's treat CWD like [your body treats the chickenpox virus](CWD_chickenpox.md) - Cash awards for positive cases!
 
 ##Code of Conduct
 Not a letter. Given the way that people relate to eachother nowadays, and further, given the historic discrimination against women in Physics, in my classes I ask that students abide by a code of conduct. [Code of Conduct](code_of_conduct.md)
