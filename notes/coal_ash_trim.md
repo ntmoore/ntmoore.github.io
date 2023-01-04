@@ -1,4 +1,4 @@
-#Trim made from Coal Ash
+# Trim made from Coal Ash
 
 "Family Handyman" is a fun magazine to read if you're a do-it-yourself-er, but an article about composite siding made from coal ash in Summer 2017 didn't mention personal protective equipment AT ALL.  They didn't publish my letter... 
 
