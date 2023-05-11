@@ -36,6 +36,8 @@ Not a letter. Given the way that people relate to eachother nowadays, and furthe
 
 I have Celiac Disease, an auto-immune disease that is triggered by the gluten in Rye, Barley, or Wheat. I attend a Catholic parish in Winona.  [Here's a letter](Wheat_and_communion.md) I sent to the Bishop relating to their insistance on using wheat-containing communion bread.  
 
+Going in for a colonoscopy?  [Don't bring your pistol.](guns_and_colonoscopy.md)  Not joking.
+
 What's the [distribution of swingsets](swingsets.md) in Winona? 
 
 Semi-trucks should [pay their fair share](road_damage.md) for the damage they cause to the roads.
