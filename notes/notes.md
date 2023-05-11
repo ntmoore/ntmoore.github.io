@@ -27,6 +27,8 @@ Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Giv
 
 Let's treat CWD like [your body treats the chickenpox virus](CWD_chickenpox.md) - Cash awards for positive cases!
 
+Who takes [legal responsibility](deer_legal.md) for the deer that destroy fruit trees?  
+
 ## Code of Conduct
 Not a letter. Given the way that people relate to eachother nowadays, and further, given the historic discrimination against women in Physics, in my classes I ask that students abide by a code of conduct. [Code of Conduct](code_of_conduct.md)
 
