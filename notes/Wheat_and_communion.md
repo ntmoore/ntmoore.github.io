@@ -1,6 +1,4 @@
-_I have Celiac disease.  I attend a Catholic church. The bread used for communion must contain wheat, which my body recognizes as a poison. 
-This hurts.  
-Here's a letter I sent to the diocese._
+_I have Celiac disease.  I attend a Catholic church. The bread used for communion must contain wheat, which my body recognizes as a poison. This hurts.  Here's a letter I sent to the diocese._
 
 Dear Bishop Barron and staff,
 
@@ -14,7 +12,7 @@ While I appreciate the spirit of the "low gluten" hosts that are sometimes avail
 
 It is emotionally painful to miss out on this part of the mass, and sometimes it feels like my earlier college experiences with Calvinist predestination theology - I'm "predestined" to watch, not participate.  And further, if I "really" had Chrsitian faith, I'd eat that thing that my body treats as poison and either bear the ill effects or trust God to heal me.  
 
-The wheat of 2000 years ago is, genetically, certainly not the wheat of North Dakota in 2023.  Moreover, if Mary was an Ethiopian Jew, Jesus would have likely grown up eating injera bread made from Teff.  Going even further, could Christ be present to the Aztecs in a corn tortilla, or to the Chinese in rice cake, or does salvation depend on faith and Europeans bringing wheat from Italy?
+The wheat of 2000 years ago is, genetically, certainly not the wheat of North Dakota in 2023.  Moreover, if Mary was an Ethiopian Jew, Jesus would have likely grown up eating injera bread made from Teff.  Going even further, could Christ be present to the Aztecs in a corn tortilla, or to the Chinese in rice cake, or does salvation depend on faith _and_ Europeans bringing wheat from Italy?
 
 The Church's insistence that eucharastic bread contain something that is a poison to me is painful, and their insistence that it contain a grain crop that was historically unavailable to much of the world also seems theologically incoherent.
 
