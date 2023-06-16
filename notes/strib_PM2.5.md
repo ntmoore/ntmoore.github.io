@@ -12,4 +12,4 @@ Nathan Moore, Winona, Minn.
 
 The writer is a physics professor.
 
-Star Tribune 2023-June-16
+[Star Tribune 2023-June-16](https://www.startribune.com/readers-write-air-quality-shoveling-snow-derek-chauvin/600283008/)
