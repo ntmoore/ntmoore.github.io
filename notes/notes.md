@@ -2,10 +2,10 @@
 
 I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  These are my opinions, not those of the University or the State of Minnesota!
 
-## Coal and Toxic Metals
-Estimated Mercury (Hg) emissions from MN coal plants before the "Mercury and Air Toxics Standards" (MATS) went into effect.  Note, these standards are part of the "War on Coal."  
+## Coal, Toxic Metals, and Air Quality
+[Build a Corsi-Rosenthal filter box](strib_PM2.5.md) when the PM2.5 air pollutant level gets high. 
 
-After a few tries, [Here's the version](Henry_trout.md) that was finally printed.
+Estimated Mercury (Hg) emissions from MN coal plants before the "Mercury and Air Toxics Standards" (MATS) went into effect.  Note, these standards are part of the "War on Coal."  After a few tries, [Here's the version](Henry_trout.md) that was finally printed.
 
 [Here's another letter](mats_standards.md) that talks about the polluted history of the Industrial North-East United States (and not eating fish there!).
 
