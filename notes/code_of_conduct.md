@@ -2,8 +2,7 @@
 
 The Software Carpentry organization makes an explicit mention of their code of conduct at the start of every workshop they run.  In terms of Maslow's hierarchy of needs, if you're hungry or fear for your safety, how can you possibly learn physics?  
 
-See also, [
- D. Leonhardt, "Lost Einsteins: The Innovations We're Missing," New York Times, Dec. 3, 2017](https://www.nytimes.com/2017/12/03/opinion/lost-einsteins-innovation-inequality.html), [the list of people who nominated Lise Meitner for a Nobel Prize](https://www.nobelprize.org/nomination/archive/show_people.php?id=6097) (she never won), or this series [of case studies from the AIP](./images/AIP_Case_Studies.pdf).
+See also, [D. Leonhardt, "Lost Einsteins: The Innovations We're Missing," New York Times, Dec. 3, 2017](https://www.nytimes.com/2017/12/03/opinion/lost-einsteins-innovation-inequality.html), [the list of people who nominated Lise Meitner for a Nobel Prize](https://www.nobelprize.org/nomination/archive/show_people.php?id=6097) (she never won), or this series [of case studies from the AIP](./images/AIP_Case_Studies.pdf).
  
 ***
 
