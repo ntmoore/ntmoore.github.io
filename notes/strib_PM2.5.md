@@ -29,3 +29,5 @@ Nathan Moore
 Winona
 
 [LaCrosse Tribune](https://lacrossetribune.com/winona/opinion/letters/nathan-moore-know-about-health-impacts-of-poor-air-quality/article_3471c1a6-15fb-11ee-a8ac-d3db71d592f0.html)
+
+This also showed up in (The Physics Teacher)[https://pubs.aip.org/aapt/pte/article/61/6/544/2908264/More-on-Summer-2023-US-Air-Quality-Local-Actions] 
