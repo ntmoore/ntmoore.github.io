@@ -1,6 +1,6 @@
 Here are some technical papers I've written.  Some of them have been published in technical journals, some haven't.  
 
-- <https://arxiv.org/abs/2301.06637> How many acres of potatoes does a society need? [MNCOSE 2023 Slides](./notes/MNCOSE_2023.md)
+- <https://arxiv.org/abs/2301.06637> How many acres of potatoes does a society need? [MNCOSE 2023 Slides](.notes/MN_COSE_2023/summary.md)
 - <https://arxiv.org/abs/2301.00013> Don't throw that video away! Reference Frames can fix Video Analysis with a Moving Camera 
 - <https://arxiv.org/abs/1807.04246> Notes on pulse-width modulation
 - <https://arxiv.org/abs/1712.04029> Inexpensive Student-fabricated Solar Panels
