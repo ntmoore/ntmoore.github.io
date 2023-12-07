@@ -34,7 +34,7 @@ Not a letter. Given the way that people relate to eachother nowadays, and furthe
 
 ## Other Letters
 
-I fell off the roof of a Sauna/Office I'm building. If I hadn't landed on the ladder, the 9ft=3m drop would have brought be to the ground at ~18mph. But the ladder was there and I had minimal injury. I don't feel great about how lucky I was. [Here's a letter](Falling_off_a_roof.md) I wrote, motivated in part by a [Kelly Latimore Icon] (https://kellylatimoreicons.com/).
+I fell off the roof of a Sauna/Office I'm building. If I hadn't landed on the ladder, the 9ft=3m drop would have brought be to the ground at ~18mph. But the ladder was there and I had minimal injury. I don't feel great about how lucky I was. [Here's a letter](Falling_off_a_roof.md) I wrote, motivated in part by a [Kelly Latimore Icon](https://kellylatimoreicons.com/).
 
 I have Celiac Disease, an auto-immune disease that is triggered by the gluten in Rye, Barley, or Wheat. I attend a Catholic parish in Winona.  [Here's a letter](Wheat_and_communion.md) I sent to the Bishop relating to their insistance on using wheat-containing communion bread.  
 
