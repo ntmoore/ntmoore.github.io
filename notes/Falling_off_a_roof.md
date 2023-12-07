@@ -21,5 +21,5 @@ So, what lessons should I take?
   - Be lucky.
   - Be born into a family, or born into a country where you don't need to be lucky?
 
-One interpretation of the first week of the Christian Advent season is that we should remember the time before Christ came and empathize with the people who are not "lucky" today; the poor, the sick, the dying, the grieving, the unemployed, the persecuted, the imprisoned, the refugee, and the immigrant. [Kelly Latimore's "Holy Family of the Streets" and associated meditation] (https://kellylatimoreicons.com/) made my recent luck all the more blatant to me.
+One interpretation of the first week of the Christian Advent season is that we should remember the time before Christ came and empathize with the people who are not "lucky" today; the poor, the sick, the dying, the grieving, the unemployed, the persecuted, the imprisoned, the refugee, and the immigrant. [Kelly Latimore's "Holy Family of the Streets" and associated meditation](https://kellylatimoreicons.com/) made my recent luck all the more blatant to me.
 
