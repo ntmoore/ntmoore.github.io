@@ -23,3 +23,7 @@ So, what lessons should I take?
 
 One interpretation of the first week of the Christian Advent season is that we should remember the time before Christ came and empathize with the people who are not "lucky" today; the poor, the sick, the dying, the grieving, the unemployed, the persecuted, the imprisoned, the refugee, and the immigrant. [Kelly Latimore's "Holy Family of the Streets" and associated meditation](https://kellylatimoreicons.com/) made my recent luck all the more blatant to me.
 
+Winona Post, 2023-Dec-20
+
+Update, Lifetip: don't take a bunch of ibuprofen after getting a concussion.  In some cases (eg mine) your blood saline level will drop and your wife will have to drive you to the ER. Low saline levels are apparently a common thing in the hospital, and treatment is well understood - a few days (in the hospital) connected to a 3% by mass saline drip.
+Can report that the broiled cod was, by far, the best thing on the hospital menu. Top-ten experience with cod - I would have had it for breakfast too!
