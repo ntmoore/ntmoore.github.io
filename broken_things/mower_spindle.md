@@ -4,7 +4,7 @@ Part number: Mower deck spindle, GX22186
 
 ![](./mower_spindle/part_no.jpg)
 
-Application: John Deere 42c mower deck. via https://partscatalog.deere.com/jdrc/ specifically https://partscatalog.deere.com/jdrc/sidebyside/equipment/72635/referrer/navigation/pgId/298050661
+Application: John Deere 42c mower deck. via (https://partscatalog.deere.com/jdrc/) specifically (https://partscatalog.deere.com/jdrc/sidebyside/equipment/72635/referrer/navigation/pgId/298050661)
 
 ![](./mower_spindle/Deere_parts_catalog.png) 
 
