@@ -16,3 +16,5 @@ Papers I've written: [via arxiv.org](papers.md)
 Notes, opinions, and [letters to the editor](notes/notes.md)
 
 [My background](background.md) 
+
+[A list of broken things](broken_things.md)
