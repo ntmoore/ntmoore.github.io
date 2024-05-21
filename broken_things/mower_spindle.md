@@ -17,7 +17,7 @@ In the diagram, part no 45 is what I replaced, the threads and blade keys on on 
 How did things fail?  Here's a guess:
 1. orange poly twine gets mowed over and some gets caught in the mower deck spindle.
 2. Twine, rocks, fallen branches etc mean the engine pushes hard on the spindle.
-3. A harder push wears away at eh 7-lobe gear/key that spins the mower blade.
+3. A harder push wears away at the 7-lobe gear/key that spins the mower blade.
 4. Oh, the blade is loose - I'd better tighten the blade nut with a bigger wrench.
 5. stripped threads on the bottom of part 39.
 
