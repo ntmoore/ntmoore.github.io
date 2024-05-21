@@ -5,7 +5,6 @@ Model Number:	MDB4949SKZ0
 Serial Number:	fa1307604
 
 ![Serial number](./Maytag_Dishwasher/serial_no.jpg)
-![the front of the dishwasher](./Maytag_Dishwasher/dishwasher.jpg)
 
 Backstory: Purchased and installed unit in Summer 2021. Has not been cleaning dishes well lately (April 2024). When I removed the dishwasher from the counter to check the pump, I smelled a burning smell (toaster!), the motor was very very hot, and metal particle filter had disintegrated in the pump housing, causing jammed pump > stuck motor > overheat condition. It was pretty scary fire hazard! 
 
