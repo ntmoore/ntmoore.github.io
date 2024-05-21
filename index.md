@@ -17,4 +17,4 @@ Notes, opinions, and [letters to the editor](notes/notes.md)
 
 [My background](background.md) 
 
-[A list of broken things](broken_things.md)
+[A list of broken things](broken_things/broken_things.md)
