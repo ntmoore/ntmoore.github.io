@@ -1,6 +1,6 @@
 # Woodshed
 
-I build this wookshed a few summers ago.  When I did most of the construction, the weather was quite calm.  The shed footprint is about 16ft wide by 12ft deep.  The back wall is 8' high and cofered in steel siding.  The front wall is open to the south and is about 10' high.  The wind in our backyard only blows north or south because we live in a valley.  
+I build a woodshed a few summers ago.  When I did most of the construction, the weather was quite calm.  The shed footprint is about 16ft wide by 12ft deep.  The back wall is 8' high and covered in steel siding.  The front wall is open to the south and is about 10' high.  The wind in our backyard only blows north or south because we live in a valley.  
 
 ![screenshot of the wind direction as measured by a backyard weather station](/woodshed/wind_direction.png)
 
