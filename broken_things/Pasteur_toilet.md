@@ -8,4 +8,5 @@ Fixed via a call to maintence.  I think they porobably just tightened the nuts/c
 
 ![video of a toilet that's leaking at the supply connection](Pasteur_toilet.png)
 
-<Pasteur_toilet.mp4>
+<video src="./Pasteur_toilet.mp4" width="320" height="240" controls></video>
+
