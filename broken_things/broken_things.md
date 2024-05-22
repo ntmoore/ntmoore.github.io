@@ -7,9 +7,15 @@ Here's a list of broken things that I broke, repaired, or gave up on.  These are
 
 [Garmin Vivoactive 3](Garmin_Watch.md) that had a very old worn-out battery.
 
+The [brick fill](brick_fill.md) above our garage service door broke loose.
+
+I had a pair of 40 year old [boots resoled](boots.md).
+
 ## In my backyard
 
 [John  Deere Mower Spindle](mower_spindle.md) for a 42C deck. 
+
+Most of the [plastic parts](JohnDeere_335_plastic.md) on my John Deere GX335 lawn tractor have cracked.
 
 A [woodshed tipped over](woodshed.md) after a strong storm blew in.
 
@@ -24,3 +30,8 @@ The [keyless entry lock keypad](Ford_lock.md) on a Ford Truck.
 ## At Work
 
 One of the [toilets near my office](Pasteur_toilet.md) at work has a strange leak/movement failure that appeared after ~ 20 years of trouble-free use.
+
+## Out and About
+Here are some 100+ year old [grave markers](grave_markers.md) near Lewiston MN.
+
+Bigelow Tea might not be [racist](tea.md). Honest!
