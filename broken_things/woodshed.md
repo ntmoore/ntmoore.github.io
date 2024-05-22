@@ -7,7 +7,7 @@ I build a woodshed a few summers ago.  When I did most of the construction, the 
 A few days after finishing the shed, we had a thunderstorm with strong winds.  The shed tipped over.
 
 Repair was:
-1. Rolling the shed back into place with my neighbors truck (pulling) and our tractor (lifing).
+1. Rolling the shed back into place with my neighbors truck (pulling) and our tractor (lifting).
 2. Pouring 2 bags of concrete mix around each of the vertical posts that went 3' into the ground.
 3. replacing the dented and torn steel roofing with new.
 

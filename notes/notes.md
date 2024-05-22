@@ -21,7 +21,7 @@ Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Giv
 
 [Followup Letter](cwd_plants.md): CWD can be transmitted to plants, which can transmit CWD back to animals.  
 
-[How to clean a knife](cwd_knives.md): How does the CDC reccomend you clean a surgical instrument that comes into contact with the human equivalent of CWD prion?
+[How to clean a knife](cwd_knives.md): How does the CDC recommend you clean a surgical instrument that comes into contact with the human equivalent of CWD prion?
 
 [Fleet Farm sells "Deer Corn" and "Wild Deer Feed"](fleet_farm_deer_corn.md) in the hunting section of the store.  It is illegal to feed (bait) deer within about 60 miles of this store.
 
@@ -36,7 +36,7 @@ Not a letter. Given the way that people relate to eachother nowadays, and furthe
 
 I fell off the roof of a Sauna/Office I'm building. If I hadn't landed on the ladder, the 9ft=3m drop would have brought be to the ground at ~18mph. But the ladder was there and I had minimal injury. I don't feel great about how lucky I was. [Here's a letter](Falling_off_a_roof.md) I wrote, motivated in part by a [Kelly Latimore Icon](https://kellylatimoreicons.com/).
 
-I have Celiac Disease, an auto-immune disease that is triggered by the gluten in Rye, Barley, or Wheat. I attend a Catholic parish in Winona.  [Here's a letter](Wheat_and_communion.md) I sent to the Bishop relating to their insistance on using wheat-containing communion bread.  
+I have Celiac Disease, an auto-immune disease that is triggered by the gluten in Rye, Barley, or Wheat. I attend a Catholic parish in Winona.  [Here's a letter](Wheat_and_communion.md) I sent to the Bishop relating to their insistence on using wheat-containing communion bread.  
 
 Going in for a colonoscopy?  [Don't bring your pistol.](guns_and_colonoscopy.md)  Not joking.
 

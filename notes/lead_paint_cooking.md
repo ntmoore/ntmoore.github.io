@@ -1,6 +1,6 @@
 # Lead paint is TOXIC!
 
-We have 4 kids and going out to eat is basically impossible now that nobody eats off the kids' menu.  So, we check books out from the library and cook.  We recently checked out the <https://www.halfbakedharvest.com/>, which is also a blog.  The food sounded ok, and it's certainly more ambitious than I was at 23. I'm not sure how she affords the recipie testing though.  
+We have 4 kids and going out to eat is basically impossible now that nobody eats off the kids' menu.  So, we check books out from the library and cook.  We recently checked out the <https://www.halfbakedharvest.com/>, which is also a blog.  The food sounded ok, and it's certainly more ambitious than I was at 23. I'm not sure how she affords the recipe testing though.  
 
 I give you "Lobster BLT's", page 171:
 
@@ -8,7 +8,7 @@ I give you "Lobster BLT's", page 171:
 <img src="./food/lobster_blt.jpg">
 </figure>
 
- Although the photography is pretty good, about half of the recipies are served on old painted wood.  It's apparent that the author has never gotten "that lecture" from an OB or a pediatrician.  
+ Although the photography is pretty good, about half of the recipes are served on old painted wood.  It's apparent that the author has never gotten "that lecture" from an OB or a pediatrician.  
 
 
 "Blackened Mahi mahi tacos with a side of 1968 Dutch Boy"

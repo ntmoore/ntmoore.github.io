@@ -1,6 +1,6 @@
 Why am I so lucky? I started slipping down the wet metal roof of the sauna/office I'm building for fun and then was suddenly in the ER at Winona Health getting a CT scan. A little break of my right Radius, fixable by cast, a decent cut from my teeth in my cheek, a mild concussion, and a bent Aluminum ladder are all I have to show for Saturday's 4 hour block of missing memory.
 
-![A picture of the sauna/office about a week before I fell off the roof and broke my wrist. The steel roof is half-installed and my son is helping me.](fall-before.jpg "If you havn't fallen, you're not afraid.")
+![A picture of the sauna/office about a week before I fell off the roof and broke my wrist. The steel roof is half-installed and my son is helping me.](fall-before.jpg "If you haven't fallen, you're not afraid.")
 
 
 I have sick leave, health insurance, colleagues that can cover work duty, and family that can come, stay, cook, and drive the kids to school. There was no bone sticking out after the fall, no long term memory loss, no other fractures, no coma, no brain or other organ damage, no death.
