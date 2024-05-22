@@ -6,4 +6,6 @@ One day I noticed a related failure in the flusing of this toilet.
 
 Fixed via a call to maintence.  I think they porobably just tightened the nuts/collars holding the assembly together.
 
-![video of a toilet that's leaking at the supply connection](Pasteur_toilet.jpg)
+![video of a toilet that's leaking at the supply connection](Pasteur_toilet.png)
+
+<Pasteur_toilet.mp4>

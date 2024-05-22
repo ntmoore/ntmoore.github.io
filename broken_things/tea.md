@@ -1,6 +1,6 @@
 # "Plantation" Mint Tea
 
-George Floyd was murdered in May 25, 2020.
+George Floyd was murdered on May 25, 2020.
 
 About a month later, Bigelow Tea changed the name of "Plantation Mint" tea to "Perfectly Mint". 
 
