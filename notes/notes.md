@@ -3,7 +3,7 @@
 I don't pretend to be an ethicist, but occasionally class discussion topics line up with current events.  These are my opinions, not those of the University or the State of Minnesota!
 
 ## Coal, Toxic Metals, and Air Quality
-[Electric Mowers](lawn-morews.md) are awesome! Everyone should buy them! Gas-powered small engines should be illegal - especially if you mulch vegetables with gradd clippings!
+[Electric Mowers](lawn-mowers.md) are awesome! Everyone should buy them! Gas-powered small engines should be illegal - especially if you mulch vegetables with grass clippings!
 
 [Build a Corsi-Rosenthal filter box](strib_PM2.5.md) when the PM2.5 air pollutant level gets high. 
 
