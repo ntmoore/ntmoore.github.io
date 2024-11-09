@@ -11,7 +11,7 @@ GitHub: <https://github.com/ntmoore>
 ORCID: [0000-0001-8590-8349](https://orcid.org/0000-0001-8590-8349)  
 CV [long](./cv/nmoore_cv.pdf) or [brief](./cv/nmoore_cv_brief.pdf)
 
-Papers I've written: [via arxiv.org](papers.md) 
+[Papers I've written](papers/papers.md) 
 
 Notes, opinions, and [letters to the editor](notes/notes.md)
 
