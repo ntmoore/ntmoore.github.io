@@ -29,12 +29,14 @@ Chronic Wasting Disease (CWD) has again been found in south-east Minnesota.  Giv
 
 Let's treat CWD like [your body treats the chickenpox virus](CWD_chickenpox.md) - Cash awards for positive cases!
 
-Who takes [legal responsibility](deer_legal.md) for the deer that destroy fruit trees?  
+Who takes [legal responsibility](deer_legal.md) for the deer that destroy fruit trees?  I
 
 ## Code of Conduct
 Not a letter. Given the way that people relate to eachother nowadays, and further, given the historic discrimination against women in Physics, in my classes I ask that students abide by a code of conduct. [Code of Conduct](code_of_conduct.md)
 
 ## Other Letters
+
+Cotter High School bought and intends to demolish Lourdes Hall, a building used by the [https://en.wikipedia.org/wiki/College_of_Saint_Teresa](College of St. Therese) and later [https://winonan.org/14036/news/end-of-an-era-and-hope-for-the-future-alumni-visit-lourdes-hall-for-a-final-goodbye/](Winona State University). (College) "Kids today" don't want to stay in a small dorm room with large shared bathrooms, and the space has been vacant for a few years.  When the high school bought the building and announced their intention to demolish it and replace it with a shared athletic space, lots of people wrote to the local paper, [https://www.winonapost.com/news/too-late-to-block-lourdes-hall-demolition/article_a64faf31-82ab-4051-86d7-52aeaec4bd06.html](agitating for some sort of extravagant historical preservation project).  [Here's a letter](old_buildings.md) I wrote about energy efficiency.     
 
 I fell off the roof of a Sauna/Office I'm building. If I hadn't landed on the ladder, the 9ft=3m drop would have brought be to the ground at ~18mph. But the ladder was there and I had minimal injury. I don't feel great about how lucky I was. [Here's a letter](Falling_off_a_roof.md) I wrote, motivated in part by a [Kelly Latimore Icon](https://kellylatimoreicons.com/).
 
