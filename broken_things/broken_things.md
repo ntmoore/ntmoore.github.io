@@ -21,11 +21,15 @@ A [woodshed tipped over](woodshed.md) after a strong storm blew in.
 
 I have a small solar irrigation system that I use for my garden.  [The pump doesn't last very long](solar_water_pump.md)
 
+I got my finger caught in a rototiller.  [Xray showing bone that was ground away etc](finger.md)
+
 ## Cars and Trucks
 
 The [keyless entry lock keypad](Ford_lock.md) on a Ford Truck.
 
 [I hit a deer](Sienna_Deer.md) with my wife's van.
+
+[My son hit a deer](volvo_deer.md) with a 2004 Volvo XC70.  We discovered it wasn't the first time the car had been in a front-end collision.
 
 ## At Work
 
