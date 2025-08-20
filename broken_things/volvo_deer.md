@@ -6,7 +6,7 @@ Here's the car before he hit the deer.
 ![A few months before the volvo hit the deer](./volvo_deer/before.jpg)
 
 
-The deer jumped out on the passenger side of the car.  The hood, bumper, right fender, right headlight, AC evaporator were all damaged.![The morning after the volvo hit the deer](./volvo_deer/impact.jpg)
+The deer jumped out on the passenger side of the car.  The hood, bumper, right fender, right headlight, and AC evaporator were all damaged.![The morning after the volvo hit the deer](./volvo_deer/impact.jpg)
 
 Taking off all of the broken pieces was straight-forward.  A wire cutter and a 10mm socket was all that was needed.
 ![The front end of the car, all trim pieces removed.](./volvo_deer/torn_apart.jpg)
