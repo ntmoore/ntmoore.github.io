@@ -36,7 +36,7 @@ Not a letter. Given the way that people relate to eachother nowadays, and furthe
 
 ## Other Letters
 
-First-world societies regulate health hazards so that people live healthier and happier lives.  [Gun regulation should be as obvious as lead pain regulation.](guns_and_lead_paint.md)
+First-world societies regulate health hazards so that people live healthier and happier lives.  [Gun regulation should be as obvious as lead paint regulation.](guns_and_lead_paint.md)
 
 Cotter High School bought and intends to demolish Lourdes Hall, a building used by the [College of St. Teresa](https://en.wikipedia.org/wiki/College_of_Saint_Teresa) and later [Winona State University](https://winonan.org/14036/news/end-of-an-era-and-hope-for-the-future-alumni-visit-lourdes-hall-for-a-final-goodbye/). (College) "Kids today" don't want to stay in a small dorm room with large shared bathrooms, and the space has been vacant for a few years.  When the high school bought the building and announced their intention to demolish it and replace it with a shared athletic space, lots of people wrote to the local paper, [agitating](https://www.winonapost.com/news/too-late-to-block-lourdes-hall-demolition/article_a64faf31-82ab-4051-86d7-52aeaec4bd06.html)  for some sort of extravagant historical preservation project.  [Here's a letter](old_buildings.md) I wrote about energy efficiency, weeding the garden, and different notions of beauty.     
 
