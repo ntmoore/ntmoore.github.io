@@ -19,3 +19,5 @@ Dale McCormick's writing is awesome!
 - [Against the Grain Dale McCormick ch10 Concrete.pdf](Against the Grain Dale McCormick ch10 Concrete.pdf)
 - [Against the Grain Dale McCormick ch11 Putting it all together.pdf](Against the Grain Dale McCormick ch11 Putting it all together.pdf)
 - [Against the Grain Dale McCormick ch12 Appendix Glossary Index.pdf](Against the Grain Dale McCormick ch12 Appendix Glossary Index.pdf)
+
+![Do not get frustrated at yourself; look to your method.](Do_not_get_frustrated_with_yourself.png "Philosophy")
