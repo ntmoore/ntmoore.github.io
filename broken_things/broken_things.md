@@ -13,6 +13,8 @@ I had a pair of 40 year old [boots resoled](boots.md).
 
 The [control panel](oven_control_panel.md) on our gas range broke.  We were able to fix it with 5-minute epoxy. 
 
+The [freezer drawer](samsung_fridge_door.md) in our Samsung fridge stopped closing fully.
+
 ## In my backyard
 
 [John  Deere Mower Spindle](mower_spindle.md) for a 42C deck. 
