@@ -13,7 +13,7 @@ Lead is toxic, and because they crawl around on the floor and play in the dirt, 
 alt="Figure 1 from Prevention of Childhood Lead Toxicity by American Academy of Pediatrics 2016, DOI: 10.1542/peds.2016-1493">
 </figure>
 
-On average, a child’s IQ score drops by about 5 points for every 10mg/dL of lead in their blood, so it isn’t absurd to say that most kids today are smarter than an average 40 year old, because kids today didn’t grow up with the lead hazard that we did.  
+On average, a child’s IQ score drops by about 5 points for every 10ug/dL of lead in their blood, so it isn’t absurd to say that most kids today are smarter than an average 40 year old, because kids today didn’t grow up with the lead hazard that we did.  
  
 If you live in an old house and decide to replace your windows, you’ll find that any window near a staircase costs about twice that of a normal window.  If you trip and fall on the stairs, your hand might punch through the window.  With normal glass, the pane will shatter into 100 loose knives, but stairway windows are made from tempered or “safety” glass, which breaks into small rectangles, sometimes held in place by a membrane of plastic.
 
