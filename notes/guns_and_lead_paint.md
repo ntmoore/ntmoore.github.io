@@ -26,3 +26,5 @@ Regulating guns is no different than regulating lead paint or cars. If people ha
 Our children, our schools, and our communities deserve safety and security. It seems obvious to me that the rates of mass shootings can be lowered by curtailing the abundance of the guns that are used in mass shootings.
 
 In Winona, our local state representatives have close links to Cotter (Catholic) Schools, which is very similar to the Minneapolis school that just experienced a terrible tragedy, which was directly facilitated by the sea of legally purchased semiautomatic weapons in this country. Will our state legislators vote to restrict access to weapons whose only seeming purpose is killing children?  I hope so. 
+
+[Winona Post, 2025-09-17](https://www.winonapost.com/opinion/what-if-we-treated-guns-like-other-dangerous-products/article_2e7ca279-cc6e-418b-83f1-7f5553d94338.html)
