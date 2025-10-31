@@ -1,7 +1,7 @@
 I put most of the technical papers I write on [arxiv.org](https://arxiv.org/search/physics?searchtype=author&query=Moore,+N+T)
 Some of them have been published in technical journals, some haven't.
   
-- <https://www.ecampusnews.com/teaching-learning/2025/09/03/my-jerry-maguire-summer/> My Jerry Maguire Summer, Sept 2025 [local copy](./My_Jerry_Maguire_summer_eCampusNews_2025_Sept.pdf). A blog post in ecampusnews.com about teaching online summer classes now that students have access to AI systems that know how to solve physics problems.  I tried to put a copy of this in arxiv.org, but they don't host/publish editorials or opinion pieces.
+- <https://www.ecampusnews.com/teaching-learning/2025/09/03/my-jerry-maguire-summer/> My Jerry Maguire Summer, Sept 2025 [local copy](./My_Jerry_Maguire_summer_eCampusNews_2025_Sept.pdf). A blog post in ecampusnews.com about teaching online summer classes now that students have access to AI systems that know how to solve physics problems.  I tried to put a copy of this in arxiv.org, but they don't host/publish editorials or opinion pieces. Also published in [The Physics Teacher](./TPT-v63-2025-editorial-Moore.pdf).
 
 - <https://arxiv.org/abs/2301.06637> How many acres of potatoes does a society need? Published in [The Physics Teacher, 2025](TPT-2025-October-v63-p595-Moore-Potatoes.pdf).  [Supplemental calculations for the paper](https://github.com/ntmoore/food_energy_paper/blob/main/TPT_submission-shorter-2023-December/food_energy-supplemental_calculations.pdf) and an [ipython notbook about agricultural yields](https://github.com/ntmoore/food_energy_paper/blob/main/ag_yields_graph/make_figure.ipynb) are both available online. [MNCOSE 2023 Slides](./notes/MN_COSE_2023/summary.md) 
 
