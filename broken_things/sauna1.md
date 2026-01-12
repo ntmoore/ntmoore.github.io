@@ -1,16 +1,26 @@
 # Sauna/Office Fire
 
-1frame.jpg          
-2construction.jpg  
-3power.jpg         
-4foil.jpg      
-5paneling.jpg  
-6firstfire.jpg  
-7firedept.heic  
-8charcoal.jpg
-9bike.jpg
-10Albike.jpg  
-11drill.jpg   
-12radialarmsaw.jpg  
-![video of a toilet that's leaking at the supply connection](Pasteur_toilet.png)
+![](./sauna1/1frame.jpg)
+ 
+![](./sauna1/2construction.jpg)
+
+![](./sauna1/3power.jpg)
+
+![](./sauna1/4foil.jpg)
+
+![](./sauna1/5paneling.jpg)
+
+![](./sauna1/6firstfire.jpg)
+
+![](./sauna1/7firedept.heic)
+
+![](./sauna1/8charcoal.jpg)
+
+![](./sauna1/9bike.jpg)
+
+![](./sauna1/10Albike.jpg)
+
+![](./sauna1/11drill.jpg)
+
+![](./sauna1/12radialarmsaw.jpg)
 
