@@ -27,6 +27,8 @@ I have a small solar irrigation system that I use for my garden.  [The pump does
 
 I got my finger caught in a rototiller.  [Xray showing bone that was ground away etc](finger.md)
 
+My sauna/office burned down a few hours after I fired the stove for the first time. [Pictures of the aftermath](sauna1.md)
+
 ## Cars and Trucks
 
 The [keyless entry lock keypad](Ford_lock.md) on a Ford Truck.

@@ -10,6 +10,8 @@ Backstory: Purchased and installed unit in Summer 2021. Has not been cleaning di
 
 Notified Maytag/Whirlpool on 18 April.  Replaced the dishwasher with new, took the old unit to the metal scrapper in town, and Maytag/Whirlpool called me 21 May to tell me they couldn't "help me out" if there was no old unit available for them to look at (pictures weren't good enough I guess).
 
+Update, 2026-01-12: bought a new unit, it failed in the same way a year later, got it repaired under warranty by a technician, it failed the same way a year later, and I then replaced it with a model from a different (NOT Maytag/Kenmore/Amana) manufacturer.
+
 ![picture of the broken filter](./Maytag_Dishwasher/broken-filter-1.jpg)  
 ![picture of the broken filter](./Maytag_Dishwasher/broken-filter-2.jpg)         
 ![picture of the broken filter](./Maytag_Dishwasher/broken-filter-3.jpg)  
