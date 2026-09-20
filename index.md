@@ -13,6 +13,8 @@ CV [long](./cv/nmoore_cv.pdf) or [brief](./cv/nmoore_cv_brief.pdf)
 
 [Papers I've written](papers/papers.md) 
 
+[YouTube videos about Physics](videos/youtube.md)
+
 Notes, opinions, and [letters to the editor](notes/notes.md)
 
 [My background](background.md) 
