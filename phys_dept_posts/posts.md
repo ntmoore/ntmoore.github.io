@@ -1,5 +1,5 @@
 # Physics department notes (from Facebook)
-Here's a list of informational posts from the Physics Deapartment's Facebook site at 
+Here's a list of informational posts and local ephemera from the Physics Department's Facebook site at 
 [https://www.facebook.com/PhysicsWSU/](https://www.facebook.com/PhysicsWSU/).  
 This is not official [Winona State University](https://www.winona.edu/) communication, 
 just a mirror of what shows up at that site.
@@ -14,7 +14,7 @@ Figuring out this car's secret entry code seems easier than it should be.
 
 ## 2026-October-22
 Winona State runs a pair of Purple Air PM 2.5 air quality sensors.  
-Smoke of particle size 2.5um and smaller is expecially dangerous!  
+Smoke of particle size 2.5um and smaller is especially dangerous!  
 Here's a letter to the editor that one of the department professors wrote a few summers ago.  
 https://ntmoore.github.io/notes/strib_PM2.5.html
 The sensor data is published online at 
