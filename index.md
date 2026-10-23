@@ -1,24 +1,33 @@
 # Hi, I'm Nathan Moore.
-I teach Physics and General Engineering classes at [Winona State University](https://www.winona.edu/).  
+
+I teach Physics and General Engineering classes at [Winona State University](https://www.winona.edu/).
 
 ## Contact information
+
 Nathan Moore, PhD, Professor  
 [Physics Department](https://www.winona.edu/physics/), Winona State University  
 PhD in Physics, University of Minnesota, 2006  
-Email: <nmoore@winona.edu>    
-Department: <https://www.winona.edu/physics>  
-GitHub: <https://github.com/ntmoore>  
+Email: [nmoore@winona.edu](mailto:nmoore@winona.edu)  
+Department: [https://www.winona.edu/physics](https://www.winona.edu/physics)  
+GitHub: [https://github.com/ntmoore](https://github.com/ntmoore)  
 ORCID: [0000-0001-8590-8349](https://orcid.org/0000-0001-8590-8349)  
 CV [long](./cv/nmoore_cv.pdf) or [brief](./cv/nmoore_cv_brief.pdf)
 
-[Papers I've written](papers/papers.md) 
+[Papers I've written](papers/papers.md)
 
 [YouTube videos about Physics](videos/youtube.md)
 
 Notes, opinions, and [letters to the editor](notes/notes.md)
 
-[My background](background.md) 
+[My background](background.md)
 
 [A list of broken things](broken_things/broken_things.md)
 
 [Posts from the Physics Department's Facebook site.](./phys_dept_posts/posts.md)
+
+
+
+<script src="/assets/js/random-image.js" defer></script>
+
+
+
