@@ -1,11 +1,10 @@
-
-# Code of Conduct
+# I use this Code of Conduct in my classes
 
 The Software Carpentry organization makes an explicit mention of their code of conduct at the start of every workshop they run.  In terms of Maslow's hierarchy of needs, if you're hungry or fear for your safety, how can you possibly learn physics?  
 
 See also, [D. Leonhardt, "Lost Einsteins: The Innovations We're Missing," New York Times, Dec. 3, 2017](https://www.nytimes.com/2017/12/03/opinion/lost-einsteins-innovation-inequality.html), 
 [the list of people who nominated Lise Meitner for a Nobel Prize](https://www.nobelprize.org/nomination/archive/show_people.php?id=6097) (she never won), 
-or this series [of case studies from the AIP](./images/AIP_Case_Studies.pdf).
+[or this series of case studies from the AIP](./images/AIP_Case_Studies.pdf).
  
 ***
 
@@ -21,7 +20,7 @@ If you believe someone is violating the Code of Conduct I ask that you report it
 
 ## Code of Conduct
 
-This course should be a welcoming and supportive environment for all people, regardless of background or identity. However, we recognize that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, color, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or mac vs pc. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
+This course should be a welcoming and supportive environment for all people, regardless of background or identity. However, we recognize that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, color, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or Mac vs PC. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
 
 Harassment is any form of behavior intended to exclude, intimidate, or cause discomfort. Because we are a diverse community, we may have different ways of communicating and of understanding the intent behind actions. Therefore we have chosen to prohibit certain forms of behavior in our community, regardless of intent. Prohibited harassing behavior includes but is not limited to:
 
