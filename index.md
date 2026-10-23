@@ -27,7 +27,3 @@ Notes, opinions, and [letters to the editor](notes/notes.md)
 
 
 
-<script src="/assets/js/random-image.js" defer></script>
-
-
-
