@@ -68,7 +68,7 @@ Physics in the wild!  Bears love the food that campers bring to the BWCA.  What 
 ## 2026-October-25
 Here are the cheapest 2x4's at my local lumberyard - typically at least $1 less per board because they're warped or checked.  Knowing the required tolerances in a backyard project is a nice thing.  Does it matter if the 2x4 you're using for a canoe rack is 1/2" out of true?  Nope, the canoe won't care and spending less money is fun.  A substantial part of any Engineering design is using fewer, cheaper, or "lower quality" materials to meet a specification.  If you meet the specification a lower cost, you can use less material, and sell the product for a more affordable price.  Engineering design is fun!
 ![A pile of discounted 2x4 boards at the Winona Menards](10-25.jpg)
-
+![The canoe rack doesn't care that the lumber is a little out of level.](canoerack.jpg) 
 
 ## 2026-October-23
 Here's a keyless entry pad I saw once at a little league game.  
