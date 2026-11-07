@@ -4,6 +4,16 @@ Here's a list of informational posts and local ephemera from the Physics Departm
 This is not official [Winona State University](https://www.winona.edu/) communication, 
 just a mirror of what shows up at that site.
 
+## 2026-November-7
+Happy Lise Meitner Day Everyone!
+From one of our Winona Students: "I believe Lise Meitner should have a national holiday. First off, she didn’t get a Nobel Prize even though she contributed so much work into the discovery of nuclear fission and it was only awarded to Otto Hahn who helped her. She also help discover protactinium and independently discovered the Auger effect and yet still no Nobel Prize. She did get an element named after her (Element 109 – Meitnerium) but I feel like people don’t always care about the name of the element and more about what it does and just trying to survive chemistry class. Some suggested days could be, November 7th - Her birthday. November 20th – The day she submitted her thesis. February 1st – Day she was awarded her doctorate."
+
+I agree.  Meitner was nominated for the Nobel prize in Physics or Chemistry 49 times!!!
+![Wikipedia screenshot from the page on Lise Meitner](11-07.png)
+
+## 2026-November-2
+The biannual clock shift is upon us once again.  My backyard weather monitor even noticed!
+![A graph of temperature vs time shows the clocks moving backwards on October31-November1](11-02.jpg)
 
 ## 2026-November-1
 Want a light-weight battery for your fish finder?  A little bit of electronics, soldering, and voltage regulator/buck-boost knowledge is all you need to rig a [USB charger](https://www.amazon.com/dp/B0CTHT4942) up to provide the power to get out one the ice with your flasher.  Of course, this depends on Lake Winona (right next to campus and full of hungry sunfish) freezing over pretty soon! 
