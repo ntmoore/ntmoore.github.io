@@ -4,6 +4,13 @@ Here's a list of informational posts and local ephemera from the Physics Departm
 This is not official [Winona State University](https://www.winona.edu/) communication, 
 just a mirror of what shows up at that site.
 
+## 2026-November-14
+It's a beautiful blue sky day today, and the clear sky is probably part of why it was so cold this morning - no atmospheric blanket of clouds to hold the radiation in.  All the tomatoes in my greenhouse finally froze out.  December21-November14 = about 37 days until the shortest day of the year.  
+
+It isn't wrong, but it seems  a little odd to say that November 14 is the same as December21+37days = December 58 = January 27 in terms of sunlight reaching my backyard weather station.
+![screenshot from Weather underground showing Solar Insolation](2026-11-14.png)
+
+
 ## 2026-November-7
 Happy Lise Meitner Day Everyone!
 From one of our Winona Students: "I believe Lise Meitner should have a national holiday. First off, she didn’t get a Nobel Prize even though she contributed so much work into the discovery of nuclear fission and it was only awarded to Otto Hahn who helped her. She also help discover protactinium and independently discovered the Auger effect and yet still no Nobel Prize. She did get an element named after her (Element 109 – Meitnerium) but I feel like people don’t always care about the name of the element and more about what it does and just trying to survive chemistry class. Some suggested days could be, November 7th - Her birthday. November 20th – The day she submitted her thesis. February 1st – Day she was awarded her doctorate."
